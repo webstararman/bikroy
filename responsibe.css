@@ -1,0 +1,246 @@
+@media (max-width:1199px) {
+    .footer-end::after {
+        content: "";
+        width: 925px;
+    }
+    .carousel-down-content {
+        margin-left: 15px;
+    }
+}
+
+@media (max-width:1199px)  and (min-width: 992px) {
+    .carousel-down-content {
+        margin-left: 15px;
+    }
+    .extra-contents {
+        margin-left: 30px;
+    }
+
+  }
+
+@media (max-width:991px) {
+    .header-right-button {
+        width: 140px;
+    }
+    .header-left-button {
+        margin-left: 45px;
+    }
+    .deliverd-end {
+        line-height: 87px;
+    }
+    .delivered-left {
+        color: #149777;
+        font-size: 58px;
+        text-align: center;
+    }
+    .delivered-center-item {
+        margin-left: -24px;
+    }
+    .search-section .search-righ-form {
+        position: relative;
+        left: 70px;
+    }
+    form.example button {
+        right: 150px;
+    }
+    .search-section .search-left-icon {
+        text-align: center;
+        margin: 10px 0;
+    }
+    .footer-end::after {
+        content: "";
+        width: 690px;
+    }
+    .hero-section .select-option {
+        width: 100%;
+    }
+}
+@media (max-width:767px) {
+    .header-right-icon {
+        text-align: left;
+        margin-top: 18px;
+    }
+    .header-right-button {
+        width: 210px;
+        text-align:right;
+        margin-top: 20px;
+    }
+    .header-right-button a {
+        font-size: 14px;
+        padding: 10px;
+    }
+    .footer-end::after {
+        content: "";
+        width: 525px;
+    }
+    .delivered-center-item {
+        height: 87px;
+    }
+    .delivered-center-item p {
+        padding-top: 0;
+    }
+    form.example button {
+        right: 115px;
+    }
+
+}
+@media (max-width:575px) {
+   
+    .fix-width-header {
+        width: 100%;
+        margin: auto;
+        max-width: 100%;
+    }
+    .header-logo-main {
+        width: 50% !important;
+    }
+    .header-logo-main-button {
+        width: 50% !important;
+        text-align: right;
+    }
+    .header-left-button {
+        margin-left:0px;
+    }
+    .header-right-button {
+        width: 100%;
+        text-align: right;
+        margin-top: 20px;
+    }
+    .fix-width {
+        width: 100%;
+        max-width: 100%;
+        margin: auto;
+    }
+    .arman {
+        width: 20%;
+    }
+    .arman1 {
+        width: 60%;
+    }
+    .delivered-center-item p {
+        color: white;
+        line-height: 27.433px;
+        padding: 16px 15px;
+    }
+    .arman2 {
+        width: 20%;
+    }
+    .delivered-center-item {
+        height:none;
+    }
+    /* MObile */
+    .arman {
+        width: 100%;
+    }
+    .deliverd-top {
+        padding: 0;
+        margin: 0;
+    }
+    .arman1 {
+        width: 100%;
+    }
+    .arman2 {
+        width: 100%;
+    }
+    .delivered-center-item {
+        margin-left: 0;
+        height: 90px;
+    }
+    .deliverd-end {
+        line-height: 70px;
+    }
+    .deliverd-end {
+        margin-left: 0;
+        text-align: center;
+        border-radius: 0;
+    }
+    .safayet1 {
+        width: 70%;
+    }
+    .safayet {
+        width: 30%;
+    }
+    .footer{
+        margin: auto;
+        text-align: center;
+    }
+    .text-start {
+        width: 50%;
+    }.text-end {
+        width: 50%;
+    }
+    .number-tiem {
+        width: 30%;
+    }
+    .number-tiem1 {
+        width: 45%;
+    }
+    .number-tiem2 {
+        width: 25%;
+    }
+
+    
+
+}
+@media (max-width:395px) {
+   
+    .header-right-icon span {
+        margin-right: 3px;
+
+    }
+
+}
+@media (max-width:360px) {
+   
+    .header-right-icon span {
+        margin-right: 0px;
+        font-size: 19px;
+        font-weight: 800;
+        line-height: 30px;
+    }
+    .header-logo-main-button {
+        width: 60% !important;
+        text-align: right;
+    }
+    .header-logo-main {
+        width: 40% !important;
+    }
+    .header-right-button {
+        width: 100%;
+        text-align: right;
+        margin-top: 20px;
+        width: 125px;
+    } 
+    .search-section .search-righ-form {
+        position: relative;
+        left: 30px;
+    }
+    form.example button {
+        right: 75px;
+    }  
+    .carousel-down-content {
+        margin-left: 60px;
+    }
+    .carousel-down-content h4 {
+        font-size: 15px;
+    }
+    .safayet1 {
+        width: 100%;
+    }
+    .extra-contents {
+        margin-left: 75px;
+    }
+    .safayet {
+        width: 30%;
+    }
+    .safayet1 {
+        width: 70%;
+    }
+    .footer-end {
+        padding-bottom: 0 !important;
+    }
+
+}
+
+
+
