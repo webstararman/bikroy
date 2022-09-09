@@ -207,6 +207,11 @@
     }
 
 }
+@media (max-width:400px){
+    .carousel-down-content {
+        margin-left: 65px;
+    }
+}
 @media (max-width:360px) {
    
     .header-right-icon span {
