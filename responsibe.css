@@ -18,10 +18,15 @@
 
   }
   @media (max-width:1024px) {
+    .fix-width-header{
+        width:100% !important;
+        margin: auto;
+        max-width: 100% !important;
+    }
     .fix-width{
         width: 100% !important;
         max-width: 100% !important; 
-    }    
+    }   
   }
 
 
@@ -294,3 +299,7 @@
         width: 130px;
     }
 }
+
+
+
+
