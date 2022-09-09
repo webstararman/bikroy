@@ -178,6 +178,9 @@
     .number-tiem2 {
         width: 25%;
     }
+    body{
+        overflow-x: hidden !important;
+    }
 
     
 
@@ -187,6 +190,9 @@
     .header-right-icon span {
         margin-right: 3px;
 
+    }
+    body{
+        overflow-x: hidden !important;
     }
 
 }
@@ -239,8 +245,40 @@
     .footer-end {
         padding-bottom: 0 !important;
     }
+    body{
+        overflow-x: hidden !important;
+    }
 
 }
+@media (max-width:300px){
+    form.example button {
+        right: 65px;
+        top: 0;
+        width: 40px;
+    }
+    form.example input[type="text"] {
+        font-size: 13px;
+
+    }
+    .hero-extra {
+        width: 145px;
+    }
+    .carousel-down-content p {
+        font-size: 12px;
+    }
+    .carousel-down-content h5 {
+        font-size: 11px;
+    }.carousel-down-content h6 {
+        font-size: 11px;
+    }
+    .safayet img {
+        width: 130px;
+    }
+    body{
+        overflow-x: hidden !important;
+    }
+}
+
 
 
 
