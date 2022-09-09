@@ -207,6 +207,26 @@
     }
 
 }
+@media (max-width:550px)  and (min-width: 440px) {
+    .extra-contents {
+        margin-left: 50px !important;
+    }
+    .carousel-down-content {
+        margin-left: 40px;
+    }
+
+  }
+@media (max-width:439px)  and (min-width: 401px) {
+    .extra-contents {
+        margin-left: 60px !important;
+    }
+    .carousel-down-content {
+        margin-left: 40px;
+    }
+
+  }
+
+
 @media (max-width:400px){
     .carousel-down-content {
         margin-left: 65px;
