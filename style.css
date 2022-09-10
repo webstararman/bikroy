@@ -1,6 +1,9 @@
 body{
     background-color: #e7edee;
 }
+html {
+    overflow-x: hidden;
+}
 body{
 	overflow-x: hidden !important;
 }
